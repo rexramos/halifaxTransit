@@ -10,4 +10,6 @@ and using leaflet js library that will do the following task:
 
 Note: If there's no scheduled bus trip, bus markers will not show up.
 
+![jsUsingLeaflet](https://github.com/rexramos/halifaxTransit/blob/main/jsUsingLeaflet.JPG)
+
 
